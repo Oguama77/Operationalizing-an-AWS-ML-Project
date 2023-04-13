@@ -1,5 +1,5 @@
 # Operationalizing-an-AWS-ML-Project
-##Using tools and features of AWS to adjust, improve, configure, and prepare a machine learning model for production-grade deployment. 
+## Using tools and features of AWS to adjust, improve, configure, and prepare a machine learning model for production-grade deployment. 
 This project consists of the following steps:
 
 1) Training and deploying a model on Sagemaker, using the most appropriate instances. Setting up multi-instance training in a Sagemaker notebook.
